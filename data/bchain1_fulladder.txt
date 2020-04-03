@@ -1,0 +1,1 @@
+~ 課題 bchain1_fulladder : (z@2 = x@1 + y@1 + w@1) を表すブール連鎖をファイル data/bchain1_fulladder.txt に記述せよ (Level 1)

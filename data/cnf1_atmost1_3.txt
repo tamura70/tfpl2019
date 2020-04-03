@@ -1,0 +1,1 @@
+~ 課題 cnf1_atmost1_3 : (p0+p1+p2 <= 1) を表すCNFをファイル data/cnf1_atmost1_3.txt に記述せよ (Level 1)

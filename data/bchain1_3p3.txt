@@ -1,0 +1,1 @@
+~ 課題 bchain1_3p3 : (z@4 = x@3 + y@3) を表すブール連鎖をファイル data/bchain1_3p3.txt に記述せよ (Level 2)

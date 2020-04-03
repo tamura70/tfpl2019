@@ -1,0 +1,1 @@
+~ 課題 cnf1_and : (p0 and p1) を表すCNFをファイル data/cnf1_and.txt に記述せよ (Level 1)

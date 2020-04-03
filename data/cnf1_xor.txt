@@ -1,0 +1,1 @@
+~ 課題 cnf1_xor : (p0 xor p1) を表すCNFをファイル data/cnf1_xor.txt に記述せよ (Level 1)

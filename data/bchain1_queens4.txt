@@ -1,0 +1,1 @@
+~ 課題 bchain1_queens4 : 4-クイーン問題を表すブール連鎖をファイル data/bchain1_queens4.txt に記述せよ (Level 2)

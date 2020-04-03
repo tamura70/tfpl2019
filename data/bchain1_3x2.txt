@@ -1,0 +1,1 @@
+~ 課題 bchain1_3x2 : (z@5 = x@3 * y@2) を表すブール連鎖をファイル data/bchain1_3x2.txt に記述せよ (Level 2)
